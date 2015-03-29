@@ -21,4 +21,17 @@
    H4sIAAAAAAAAC8WTwQ4AIAhC8f9/urtLIa1ka3ZoPqgEAMOMbGBNyPN/ZTNX/T4631XEjXxUuNkd+H4vudjUF9xd3wq3MyNVriLGzTx250rxpnDVPKoyLvOk9mW5TrwyBvsvVe6Nt17dQadjCAcAAA==
   </data>
  </layer>
+ <objectgroup name="Object Layer 1" width="32" height="32">
+  <properties>
+   <property name="wall" value="true"/>
+  </properties>
+  <object x="64" y="33" width="888" height="29"/>
+  <object x="32" y="131" width="30" height="346"/>
+  <object x="128" y="131" width="30" height="61"/>
+  <object x="160" y="161" width="30" height="253"/>
+  <object x="34" y="5" width="29" height="56"/>
+  <object x="98" y="98" width="698" height="28"/>
+  <object x="1" y="98" width="59" height="30"/>
+  <object x="769" y="163" width="159" height="60"/>
+ </objectgroup>
 </map>
